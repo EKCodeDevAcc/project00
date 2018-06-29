@@ -1,0 +1,18 @@
+div #main_logo, div #content {
+  margin-left: auto;
+  margin-right: auto; }
+
+div {
+  font-family: sans-serif; }
+  div #main_logo {
+    display: block;
+    width: 50%; }
+
+#menu_list {
+  background-color: #0d2b56; }
+
+.container {
+  background-color: #f0f5f5;
+  height: 100vh; }
+
+/*# sourceMappingURL=myStyle.css.map */
