@@ -38,7 +38,7 @@ div {
 }
 
 .text-center {
-    margin-top: 10px;
+    margin-top: 16px;
 }
 
 li:hover {
@@ -51,4 +51,9 @@ a:active {
 
 a:visited {
     color: $soxred;
+}
+
+h1, h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }

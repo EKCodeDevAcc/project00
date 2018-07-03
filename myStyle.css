@@ -19,7 +19,7 @@ div {
   height: 100vh; }
 
 .text-center {
-  margin-top: 10px; }
+  margin-top: 16px; }
 
 li:hover {
   background-color: #4a777a; }
@@ -29,5 +29,9 @@ a:active {
 
 a:visited {
   color: #c8102e; }
+
+h1, h2 {
+  margin-top: 10px;
+  margin-bottom: 10px; }
 
 /*# sourceMappingURL=myStyle.css.map */
